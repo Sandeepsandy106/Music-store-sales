@@ -1,7 +1,2 @@
-# Music-store-sales
-Below are task perfomed:-
-1.)Connected Power BI with Postgres SQl to import records . Performed data transformation in Power BI.
-2.)Used Joins ,CTE and window function to create relationship between multiple tables to fetch valuable output under PostgresSQL.
-3.)Used Power BI, specializing in data modeling and relationship management by establishing connections between tables through primary and foreign
-key values.
-4.)Built a dashboard in Power BI from scratch for visualizing highly profitable cities, which are most populer music genre in customer.
+I've recently noticed instances where my projects have been copied without permission. To address this, I've implemented limited access controls using password . 
+If you'd like to discuss or access these projects, please connect with me on LinkedIn. I'm happy to share more information securely through appropriate channels. Thank you for your understanding.
